@@ -1,9 +1,38 @@
+# --- Core Framework ---
 fastapi
 uvicorn
 pydantic
+
+# --- OCR & AI ---
 easyocr
-python-multipart
 openai
-tqdm
 langchain
 llama-index
+
+# --- File Uploads ---
+python-multipart
+
+# --- Utilities ---
+tqdm
+
+# --- Database ---
+sqlalchemy
+asyncpg
+
+# --- Task Queue ---
+celery
+redis
+
+# --- Storage ---
+ipfshttpclient
+
+# --- Auth ---
+python-jose
+passlib[bcrypt]
+
+# --- CORS ---
+starlette
+
+# --- Testing & HTTP Client (Optional) ---
+pytest
+httpx
