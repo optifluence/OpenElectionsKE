@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+easyocr
+python-multipart
+openai
+tqdm
+langchain
+llama-index
