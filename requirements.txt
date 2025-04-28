@@ -35,4 +35,6 @@ starlette
 
 # --- Testing & HTTP Client (Optional) ---
 pytest
+pytest-asyncio
 httpx
+aiosqlite
